@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Techyana
-- 👀 I’m interested in CSS3, SASS, HTML5,TypeScript plus JavaScript and web frameworks
+- 👀 I’m interested in CSS3, SASS, HTML5,TypeScript, JavaScript, C#, Visual Basic, SQL, PHP, plus Libraries and web frameworks
 - 🌱 I’m currently learning Bootstrap, Angular and PHP
 - 💞️ I’m looking to collaborate on any projects that will help me grow
 - 📫 How to reach me: Zuko.Tetyana@techyana.co.za or 073 123 3330
