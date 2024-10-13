@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ZukoTetyana
-- 👀 I’m interested in CSS3, SASS, HTML5,TypeScript, JavaScript, C#, Visual Basic, SQL, PHP, plus Libraries and web frameworks
-- 🌱 I’m currently learning Bootstrap, Angular and PHP
+- 👀 I’m interested in Front-End and Back-End, specifically React, Vue and ASP.NET 8
+- 🌱 I’m currently learning React, .NET 8 (Blazor) and Design Patterns + Architectures. 
 - 💞️ I’m looking to collaborate on any projects that will help me grow
 - 📫 How to reach me: Zuko.Tetyana@techyana.co.za or 073 123 3330
 
