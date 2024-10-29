@@ -21,6 +21,11 @@
 - www.chickcompare.co.za
 - www.bhelewealth.co.za
 
+- ## My Goals
+- Commit daily to improve consistency.
+- Contribute to at least two new open source project each month.
+- Engage with the community through discussions and issues.
+
 ## Contact
 - Email: zuko.tetyana@techyana.co.za
 - LinkedIn: https://www.linkedin.com/in/zuko-tetyana-43683a108/
