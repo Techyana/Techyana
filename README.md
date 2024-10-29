@@ -8,6 +8,9 @@
 ## GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Techyana&show_icons=true&theme=radical&count_private=true)
 
+## Top Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?Techyana=Techyana&layout=compact)
+
 
 ## Projects
 - www.capelanet.co.za
