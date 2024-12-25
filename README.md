@@ -18,8 +18,9 @@
 - www.capelanet.co.za
 - www.techyana.co.za
 - www.bhelebank.co.za
-- www.chickcompare.co.za
+- www.cheapcompare.co.za
 - www.bhelewealth.co.za
+- www.inwelezam.co.za
 
 - ## My Goals
 - Commit daily to improve consistency.
