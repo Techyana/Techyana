@@ -18,6 +18,7 @@
 - www.capelanet.co.za
 - www.techyana.co.za
 - www.bhelebank.co.za
+- www.sunshinelodge.co.za
 - www.cheapcompare.co.za
 - www.bhelewealth.co.za
 - www.inwelezam.co.za
